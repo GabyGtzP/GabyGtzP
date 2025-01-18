@@ -15,7 +15,15 @@ Data Scientist in progress
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=GabyGtzP&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
+---
+
+
+![ff043987-239b-4661-bdb1-7f4ca6092c48](https://github.com/user-attachments/assets/1f83fa20-7aca-4c57-b694-5aa55fc7c82b)
+
 
 
