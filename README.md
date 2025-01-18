@@ -22,8 +22,7 @@ Data Scientist in progress
 
 ---
 
-
-![ff043987-239b-4661-bdb1-7f4ca6092c48](https://github.com/user-attachments/assets/1f83fa20-7aca-4c57-b694-5aa55fc7c82b)
+<img src="https://github.com/user-attachments/assets/1f83fa20-7aca-4c57-b694-5aa55fc7c82b" alt="Descripción de la imagen" width="200" height="200"/>
 
 
 
